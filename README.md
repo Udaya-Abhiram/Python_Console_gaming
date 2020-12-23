@@ -2,4 +2,4 @@
 
 1. Register
 1. Login
-2. Play Games games.. [Cricket & Rock-Paper-Scissors]
+2. Play Games... [Cricket & Rock-Paper-Scissors]
