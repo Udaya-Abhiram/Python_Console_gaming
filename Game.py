@@ -1,4 +1,5 @@
 Title = '------GAMES------'
+
 print("*"*len(Title))
 print(Title)
 print("*"*len(Title))
